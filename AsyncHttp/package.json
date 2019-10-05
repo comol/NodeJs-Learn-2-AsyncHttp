@@ -1,0 +1,12 @@
+{
+  "name": "async-http",
+  "version": "0.0.0",
+  "description": "AsyncHttp",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  }
+}
