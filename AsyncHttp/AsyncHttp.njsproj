@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <TypeScriptCompile Include="server.ts" />
+    <Content Include="node_dev_var.env" />
     <Content Include="tsconfig.json" />
     <Content Include="package.json" />
     <Content Include="README.md" />
